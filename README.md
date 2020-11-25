@@ -1,0 +1,1 @@
+Easynote Electron app
