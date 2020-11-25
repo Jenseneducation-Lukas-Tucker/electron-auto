@@ -1,11 +1,11 @@
 {
-  "name": "electron-auto-update-example",
+  "name": "electron-auto",
   "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easynotedotcom/desktop.git"
+    "url": "https://github.com/Jenseneducation-Lukas-Tucker/electron-auto.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
